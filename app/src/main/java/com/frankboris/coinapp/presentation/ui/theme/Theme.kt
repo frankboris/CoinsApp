@@ -1,4 +1,4 @@
-package com.frankboris.coinapp.ui.theme
+package com.frankboris.coinapp.presentation.ui.theme
 
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.darkColors
@@ -21,7 +21,7 @@ private val LightColorPalette = lightColors(
 )
 
 @Composable
-fun CoinsAppTheme(darkTheme: Boolean = true, content: @Composable () -> Unit) {
+fun CoinsAppTheme(darkTheme: Boolean = true, content: @Composable() () -> Unit) {
     val colors = if (darkTheme) {
         DarkColorPalette
     } else {

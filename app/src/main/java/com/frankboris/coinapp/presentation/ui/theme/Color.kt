@@ -1,4 +1,4 @@
-package com.frankboris.coinapp.ui.theme
+package com.frankboris.coinapp.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
