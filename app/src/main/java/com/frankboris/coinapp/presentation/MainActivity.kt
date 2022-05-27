@@ -33,7 +33,7 @@ class MainActivity : ComponentActivity() {
                         composable(
                             route = Screen.CoinDetailScreen.route + "/{coinId}"
                         ) {
-                            CoinDetailScreen()
+                            CoinDetailScreen(navController)
                         }
                     }
                 }
