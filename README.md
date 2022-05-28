@@ -1,8 +1,9 @@
 # Coins Application
-
-This is an example Android Application README to show briefly the sections your app README should contain.
+This is a simple android application using Kotlin Jetpack Compose and Model View View Movdel (MVVM) architecture.
 
 ## Screenshots
+|  ![enter image description here](https://raw.githubusercontent.com/frankboris/CoinsApp/master/screenshots/HomeSreen.png)| ![enter image description here](https://raw.githubusercontent.com/frankboris/CoinsApp/master/screenshots/CoinDetailScreen.png) |
+|--|--|
 
 
 ## Maintainers
@@ -11,7 +12,6 @@ This project is mantained by:
 
 
 ## Contributing
-
 1. Fork it
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -m 'Add some feature')
